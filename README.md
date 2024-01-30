@@ -28,6 +28,8 @@ Download all the files and open them in VSCode and run the command python manage
 
 https://drive.google.com/file/d/1YC8WdivfRxJUbFscmAOpENqN6uO7Xrr8/view?usp=sharing
 
+In the demo you can see that 500 ip address was not marked as red but I updated my code after that so both entries with same ip address will be marked red
+
 #CREDITS
 
 Django
